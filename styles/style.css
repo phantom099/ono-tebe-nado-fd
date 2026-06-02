@@ -279,6 +279,8 @@
 .footer__links-list {
     list-style: none;
     text-align: center;
+    font-size:18px;
+    line-height: 100%;
 }
 
 .footer__links-link_active {

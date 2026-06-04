@@ -231,7 +231,7 @@
 
 .about__column:first-child {
     display: flex;
-    justify-content: center;
+    justify-content:start;
 }
 
 .about__column:last-child {
